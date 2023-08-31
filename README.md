@@ -3,7 +3,7 @@
   <p align="center">
     Track prices of all crypto along with trends in graphs! React based app.
     <br/>
-    <a href="https://verdant-gumdrop-13d26a.netlify.app/"><strong>View Demo »</strong></a>
+    <a href="https://glistening-speculoos-d71f3e.netlify.app"><strong>View Demo »</strong></a>
     <br/>
     
   </p>
